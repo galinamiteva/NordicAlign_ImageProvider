@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NordicAlign_ImageProvider": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7135",
+      "launchBrowser": false
+    }
+  }
+}
